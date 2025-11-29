@@ -1,7 +1,14 @@
-## Neutral.Human - Hello! Thanks to visiting my profile
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,npm,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aiscript,npm,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vim,arch,windows,ubuntu)](https://skillicons.dev)
+## Neutral.Human - Hello! Thanks to visiting my profile!
+### My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neutral-Human)](https://github.com/anuraghazra/github-readme-stats)
+### My Skills - Web
+[![My Skills - Web Languages](https://skillicons.dev/icons?i=html,js,css,npm,nodejs,jquery,vuejs,aiscript,cloudflare)](https://skillicons.dev)<br>
+<!--### My Skills - Programming Language
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br> uh-->
+### My Skills - OS(s)
+[![My Skills](https://skillicons.dev/icons?i=arch,windows,ubuntu)](https://skillicons.dev)<br>
+### My Skills - Softwares
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,misskey,git,mysql,nodejs,npm)](https://skillicons.dev)<br>
 <!--
 **Neutral-Human/neutral-human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
