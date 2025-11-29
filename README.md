@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,vim,npm,arch,aiscript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,aiscript,vim,npm,nodejs,arch)](https://skillicons.dev)
 <!--
 **Neutral-Human/neutral-human** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
