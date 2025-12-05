@@ -1,5 +1,6 @@
 ## Neutral.Human - 👋
 ### 👋 About me
+First, thank you for watching my profile.<br>
 I am developer.<br>
 and I am student.
 ### 🥇 My stats
