@@ -7,7 +7,7 @@ and I am student.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neutral-Human)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 My used languages - Web
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,jquery,vuejs,aiscript,cloudflare)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,vuejs,aiscript,cloudflare)](https://skillicons.dev)<br>
 <!--### My Skills - Programming Language
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br>-->
 ### 🔧 Development Environment
