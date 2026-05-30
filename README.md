@@ -1,13 +1,12 @@
 ## Neutral.Human - 👋
 ### 👋 About me
 First, thank you for watching my profile.<br>
-I am developer.<br>
-and I am student.
+I am developer.
 ### 🥇 My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neutral-Human)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 My used languages - Web
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,vuejs,aiscript,cloudflare)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,vuejs,aiscript)](https://skillicons.dev)<br>
 <!--### My Skills - Programming Language
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br>-->
 ### 🔧 Development Environment
