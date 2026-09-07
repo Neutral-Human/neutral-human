@@ -3,7 +3,7 @@
 First, thank you for watching my profile.<br>
 I am developer.
 ### 🥇 My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neutral-Human)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ### 🌐 My used languages - Web
 [![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,vuejs,aiscript)](https://skillicons.dev)<br>
